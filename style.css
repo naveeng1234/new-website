@@ -480,3 +480,13 @@ footer {
 footer p {
   text-align: center;
 }
+
+.container {
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  width: 80%; /* Adjust width */
+  max-width: 300px; /* Ensure it doesn't stretch */
+  text-align: center;
+}
